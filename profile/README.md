@@ -80,7 +80,7 @@ AWS_S3_ACCESS_KEY={YOUR_AWS_S3_ACCESS_KEY}
 AWS_S3_SECRET_KEY={YOUR_AWS_S3_SECRET_KEY}
 
 ##### DATABASE
-# if you wan to use the docker compose database, you can use this code
+# if you want to use the docker compose database, you can use this code
 # if you don't want to use the docker compose database, you must use your own database
 MYSQL_DATABASE=userdb
 MYSQL_ROOT_HOST=root

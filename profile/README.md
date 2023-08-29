@@ -4,7 +4,8 @@ English | **한국어**
 # 소개
 
 온라인 PT를 원활하게 
-채팅과 영상 및 사진으로 PT 피드백을 진행하고, 대시보드에서 회원을 편리하게 관리할 수 있는 서비스
+채팅과 영상 및 사진으로 PT 피드백을 진행하고, 대시보드에서 회원을 편리하게 관리할 수 있는 서비스<br>
+자세한 설명은 <a href="https://github.com/Pocket-PT/.github/blob/main/profile/POCKET%20PT_compressed.pdf">여기</a>를 클릭
 
 
 # System Architecture

@@ -9,7 +9,8 @@ English | **한국어**
 
 
 # System Architecture
-<img width="1168" alt="스크린샷 2023-08-11 17 54 51" src="https://github.com/Pocket-PT/.github/assets/59956020/9317fcf2-53ad-4735-8e56-56fc49c77c56">
+<!-- <img width="1168" alt="스크린샷 2023-08-11 17 54 51" src="https://github.com/Pocket-PT/.github/assets/59956020/9317fcf2-53ad-4735-8e56-56fc49c77c56"> -->
+![image](https://github.com/Pocket-PT/.github/assets/55998816/d5dbd5d7-b004-49eb-82ab-fa9212074ac8)
 
 
 
